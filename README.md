@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_linkedin](https://linkedin.com/infomilosstojanovic)
+Milos Stojanovic - [@linkedin](https://www.linkedin.com/in/infomilosstojanovic/)
 
 Project Link: [https://github.com/m-stojanovic/kafka-zk-cluster-docker](https://github.com/m-stojanovic/kafka-zk-cluster-docker)
 
